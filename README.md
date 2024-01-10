@@ -3,8 +3,3 @@ Diabetic Retinopathy (DR) is a common complication of diabetes mellitus, which c
 
 
 Transfer learning has become one of the most common techniques that has achieved better performance in many areas, especially in medical image analysis and classification. We used Transfer Learning techniques like Inception V3,Resnet50,Xception V3 that are more widely used as a transfer learning method in medical image analysis and they are highly effective.
-
-
-Technical Architecture:
-
-
